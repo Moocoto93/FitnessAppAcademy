@@ -52,16 +52,15 @@ def init_db_on_startup():
                 if exercicios_data:
                     # Insere os exercícios
                     for ex_data in exercicios_data:
-                        # Mapeia os campos conforme necessário
+                        # Mapeia os campos conforme o modelo Exercicio
                         exercicio = Exercicio(
                             nome=ex_data.get("nome", ""),
                             descricao=ex_data.get("descricao", ""),
-                            grupo_muscular=",".join(ex_data.get("musculos", [])) if isinstance(ex_data.get("musculos"), list) else ex_data.get("grupo_muscular", ""),
+                            musculos=ex_data.get("musculos", []),  # JSON com lista de músculos
+                            equipamento=ex_data.get("equipamento", ""),
+                            categoria=ex_data.get("categoria", ""),
                             dificuldade=ex_data.get("dificuldade", "intermediaria"),
-                            imagem_url=ex_data.get("imagem_url", ""),
-                            video_url=ex_data.get("link_execucao", ex_data.get("video_url", "")),
-                            series=ex_data.get("series", 3),
-                            repeticoes=ex_data.get("repeticoes", 10)
+                            link_execucao=ex_data.get("link_execucao", "")
                         )
                         db.add(exercicio)
                     
