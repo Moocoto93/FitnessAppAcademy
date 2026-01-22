@@ -1,6 +1,6 @@
 """
-Script para corrigir o OpenAPI e remover autenticação do login
-Executa a API, baixa o OpenAPI e remove a autenticação do endpoint /auth/login
+Script para corrigir o OpenAPI e remover autenticação dos endpoints públicos
+Remove autenticação de: login, register, health, root, info
 """
 import json
 import requests
@@ -9,7 +9,7 @@ from pathlib import Path
 
 def corrigir_openapi():
     """
-    Baixa o OpenAPI e remove autenticação do endpoint de login
+    Baixa o OpenAPI e remove autenticação dos endpoints públicos
     """
     print("🔧 Corrigindo especificação OpenAPI...")
     
@@ -25,29 +25,26 @@ def corrigir_openapi():
         
         print("✅ OpenAPI baixado com sucesso")
         
-        # CORRIGE: Remove security do endpoint de login
-        if "/api/auth/login" in openapi["paths"]:
-            if "post" in openapi["paths"]["/api/auth/login"]:
-                # Remove a require de autenticação
-                endpoint = openapi["paths"]["/api/auth/login"]["post"]
-                if "security" in endpoint:
-                    del endpoint["security"]
-                    print("✅ Authorization removida do POST /api/auth/login")
+        # Lista de endpoints públicos (não precisam de autenticação)
+        endpoints_publicos = [
+            "/api/auth/login",
+            "/api/auth/register",
+            "/health",
+            "/",
+            "/api/info"
+        ]
         
-        # CORRIGE: Remove security do endpoint de registro
-        if "/api/auth/register" in openapi["paths"]:
-            if "post" in openapi["paths"]["/api/auth/register"]:
-                endpoint = openapi["paths"]["/api/auth/register"]["post"]
-                if "security" in endpoint:
-                    del endpoint["security"]
-                    print("✅ Authorization removida do POST /api/auth/register")
-        
-        # CORRIGE: Remove security do endpoint de health check
-        if "/health" in openapi["paths"]:
-            for method in openapi["paths"]["/health"]:
-                if "security" in openapi["paths"]["/health"][method]:
-                    del openapi["paths"]["/health"][method]["security"]
-            print("✅ Authorization removida do GET /health")
+        # Remove security de todos os endpoints públicos
+        for path in endpoints_publicos:
+            if path in openapi["paths"]:
+                for method in openapi["paths"][path]:
+                    if method in ["get", "post", "put", "delete", "patch"]:
+                        endpoint = openapi["paths"][path][method]
+                        if "security" in endpoint:
+                            del endpoint["security"]
+                            print(f"✅ Authorization removida do {method.upper()} {path}")
+                        else:
+                            print(f"⚪ {method.upper()} {path} já era público")
         
         # Salva o OpenAPI corrigido
         output_path = Path("openapi_corrigido.json")
@@ -61,11 +58,12 @@ def corrigir_openapi():
         print("3. Na aba 'API Definition', clique em 'Upload Specification'")
         print("4. Selecione o arquivo 'openapi_corrigido.json'")
         print("5. Clique em 'Upload' para sobrescrever o anterior")
-        print("\n✅ Pronto! Agora o login não precisa de Authorization!")
+        print("6. Refresh a página (F5)")
+        print("\n✅ Pronto! Agora todos os endpoints públicos funcionam sem Authorization!")
         
     except requests.exceptions.ConnectionError:
         print("❌ Erro: API não está rodando!")
-        print("💡 Execute: python main.py")
+        print("💡 Execute em outro terminal: uvicorn main:app --reload")
         return False
     except Exception as e:
         print(f"❌ Erro: {e}")
