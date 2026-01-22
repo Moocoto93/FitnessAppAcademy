@@ -4,11 +4,12 @@ Executa automaticamente quando a API inicia
 """
 import os
 import logging
+import json
+from pathlib import Path
 from sqlalchemy.orm import Session
 from app.database import engine, Base, SessionLocal
 from app.models import Usuario, Exercicio
 from app.auth import get_password_hash
-import json
 
 logger = logging.getLogger(__name__)
 
@@ -19,70 +20,115 @@ def init_db_on_startup():
     try:
         # Verifica se já tem usuários
         admin_exists = db.query(Usuario).filter(Usuario.username == "admin").first()
+        exercicios_count = db.query(Exercicio).count()
         
-        if admin_exists:
-            logger.info("✓ Admin já existe no banco. Pulando inicialização.")
+        if admin_exists and exercicios_count > 0:
+            logger.info(f"✓ Banco já inicializado. {exercicios_count} exercícios encontrados.")
             return
         
         logger.info("🔧 Inicializando banco de dados...")
         
-        # Cria usuário admin
-        logger.info("👤 Criando usuário admin...")
-        admin_user = Usuario(
-            username="admin",
-            email="admin@fitnessapp.com",
-            nome="Administrador",
-            senha_hash=get_password_hash("admin"),
-            is_admin=True
-        )
-        db.add(admin_user)
-        db.commit()
-        db.refresh(admin_user)
-        logger.info("✓ Usuário admin criado")
+        # Cria usuário admin se não existir
+        if not admin_exists:
+            logger.info("👤 Criando usuário admin...")
+            admin_user = Usuario(
+                username="admin",
+                email="admin@fitnessapp.com",
+                nome="Administrador",
+                senha_hash=get_password_hash("admin"),
+                is_admin=True
+            )
+            db.add(admin_user)
+            db.commit()
+            db.refresh(admin_user)
+            logger.info("✓ Usuário admin criado")
         
-        # Popula exercícios
-        logger.info("💪 Carregando exercícios...")
-        
-        # Tenta carregar do arquivo JSON
-        try:
-            exercicios_file = "exercicios_academia.json"
-            if os.path.exists(exercicios_file):
-                with open(exercicios_file, "r", encoding="utf-8") as f:
-                    exercicios_data = json.load(f)
+        # Popula exercícios se não existirem
+        if exercicios_count == 0:
+            logger.info("💪 Carregando exercícios...")
+            
+            try:
+                # Tenta carregar do arquivo JSON
+                exercicios_data = load_exercicios_from_file()
                 
-                if isinstance(exercicios_data, dict) and "exercicios" in exercicios_data:
-                    exercicios_list = exercicios_data["exercicios"]
+                if exercicios_data:
+                    # Insere os exercícios
+                    for ex_data in exercicios_data:
+                        # Mapeia os campos conforme necessário
+                        exercicio = Exercicio(
+                            nome=ex_data.get("nome", ""),
+                            descricao=ex_data.get("descricao", ""),
+                            grupo_muscular=",".join(ex_data.get("musculos", [])) if isinstance(ex_data.get("musculos"), list) else ex_data.get("grupo_muscular", ""),
+                            dificuldade=ex_data.get("dificuldade", "intermediaria"),
+                            imagem_url=ex_data.get("imagem_url", ""),
+                            video_url=ex_data.get("link_execucao", ex_data.get("video_url", "")),
+                            series=ex_data.get("series", 3),
+                            repeticoes=ex_data.get("repeticoes", 10)
+                        )
+                        db.add(exercicio)
+                    
+                    db.commit()
+                    count = db.query(Exercicio).count()
+                    logger.info(f"✓ {count} exercícios carregados com sucesso!")
                 else:
-                    exercicios_list = exercicios_data if isinstance(exercicios_data, list) else []
-                
-                for ex_data in exercicios_list[:500]:  # Limita a 500
-                    exercicio = Exercicio(
-                        nome=ex_data.get("nome", ""),
-                        descricao=ex_data.get("descricao", ""),
-                        grupo_muscular=ex_data.get("grupo_muscular", ""),
-                        dificuldade=ex_data.get("dificuldade", "intermediaria"),
-                        imagem_url=ex_data.get("imagem_url", ""),
-                        video_url=ex_data.get("video_url", ""),
-                        series=ex_data.get("series", 3),
-                        repeticoes=ex_data.get("repeticoes", 10)
-                    )
-                    db.add(exercicio)
-                
-                db.commit()
-                count = len(exercicios_list)
-                logger.info(f"✓ {count} exercícios carregados com sucesso")
-            else:
-                logger.warning("⚠ Arquivo exercicios_academia.json não encontrado")
-        
-        except Exception as e:
-            logger.error(f"❌ Erro ao carregar exercícios: {e}")
-            db.rollback()
+                    logger.warning("⚠ Nenhum exercício foi carregado")
+            
+            except Exception as e:
+                logger.error(f"❌ Erro ao carregar exercícios: {e}", exc_info=True)
+                db.rollback()
+        else:
+            logger.info(f"✓ {exercicios_count} exercícios já existem no banco")
         
         logger.info("✅ Banco de dados inicializado com sucesso!")
     
     except Exception as e:
-        logger.error(f"❌ Erro ao inicializar banco: {e}")
+        logger.error(f"❌ Erro ao inicializar banco: {e}", exc_info=True)
         db.rollback()
     
     finally:
         db.close()
+
+
+def load_exercicios_from_file():
+    """Carrega exercícios do arquivo JSON"""
+    
+    # Tenta diferentes caminhos possíveis
+    possible_paths = [
+        "exercicios_academia.json",
+        "./exercicios_academia.json",
+        Path(__file__).parent.parent / "exercicios_academia.json",
+        Path(__file__).parent.parent.parent / "exercicios_academia.json",
+    ]
+    
+    for path in possible_paths:
+        try:
+            if isinstance(path, Path):
+                path_str = str(path)
+            else:
+                path_str = path
+            
+            if os.path.exists(path_str):
+                logger.info(f"📂 Carregando JSON de: {path_str}")
+                with open(path_str, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                
+                # Trata diferentes formatos de JSON
+                if isinstance(data, dict):
+                    if "exercicios" in data:
+                        return data["exercicios"]
+                    elif "data" in data:
+                        return data["data"]
+                    else:
+                        return list(data.values()) if data else []
+                elif isinstance(data, list):
+                    return data
+                else:
+                    return []
+        
+        except Exception as e:
+            logger.debug(f"⚠ Erro ao carregar de {path}: {e}")
+            continue
+    
+    logger.warning("⚠ Arquivo exercicios_academia.json não encontrado em nenhum caminho")
+    return None
+
