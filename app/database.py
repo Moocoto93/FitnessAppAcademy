@@ -1,23 +1,30 @@
 """
-Configuração do banco de dados SQLite
+Configuração do banco de dados (PostgreSQL / Render)
 """
+import os
 from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, declarative_base
 
-# SQLite database
-SQLALCHEMY_DATABASE_URL = "sqlite:///./fitness_app.db"
+# URL do banco vinda do Render
+DATABASE_URL = os.getenv("DATABASE_URL")
 
-# Cria engine
+if not DATABASE_URL:
+    raise RuntimeError("DATABASE_URL não configurada")
+
+# Cria engine (Postgres)
 engine = create_engine(
-    SQLALCHEMY_DATABASE_URL, 
-    connect_args={"check_same_thread": False}
+    DATABASE_URL,
+    pool_pre_ping=True
 )
 
 # Cria SessionLocal
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+SessionLocal = sessionmaker(
+    autocommit=False,
+    autoflush=False,
+    bind=engine
+)
 
-# Base para modelos
+# Base para os models
 Base = declarative_base()
 
 # Dependency para obter DB session
