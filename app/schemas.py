@@ -6,20 +6,6 @@ from typing import List, Optional
 
 
 class ExercicioBase(BaseModel):
-    nome: str
-    descricao: Optional[str] = None
-    musculos: List[str] = []
-    equipamento: Optional[str] = None
-    categoria: str
-    dificuldade: Optional[str] = None
-    link_execucao: Optional[str] = None
-
-
-class ExercicioCreate(ExercicioBase):
-    pass
-
-
-class ExercicioUpdate(BaseModel):
     nome: Optional[str] = None
     descricao: Optional[str] = None
     musculos: Optional[List[str]] = None
@@ -29,8 +15,38 @@ class ExercicioUpdate(BaseModel):
     link_execucao: Optional[str] = None
 
 
-class ExercicioResponse(ExercicioBase):
+class ExercicioCreate(BaseModel):
+    """Para criar - nome e categoria obrigatórios"""
+    nome: str
+    descricao: Optional[str] = None
+    musculos: Optional[List[str]] = None
+    equipamento: Optional[str] = None
+    categoria: str
+    dificuldade: Optional[str] = None
+    link_execucao: Optional[str] = None
+
+
+class ExercicioUpdate(BaseModel):
+    """Para atualizar - todos opcionais"""
+    nome: Optional[str] = None
+    descricao: Optional[str] = None
+    musculos: Optional[List[str]] = None
+    equipamento: Optional[str] = None
+    categoria: Optional[str] = None
+    dificuldade: Optional[str] = None
+    link_execucao: Optional[str] = None
+
+
+class ExercicioResponse(BaseModel):
+    """Response padrão - todos os campos"""
     id: int
+    nome: Optional[str] = None
+    descricao: Optional[str] = None
+    musculos: Optional[List[str]] = None
+    equipamento: Optional[str] = None
+    categoria: Optional[str] = None
+    dificuldade: Optional[str] = None
+    link_execucao: Optional[str] = None
     
     class Config:
         from_attributes = True
