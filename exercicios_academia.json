@@ -1,0 +1,6559 @@
+[
+  {
+    "id": 1,
+    "nome": "Supino Reto com Barra",
+    "descricao": "Exercício fundamental para desenvolvimento do peitoral",
+    "musculos": [
+      "Peitoral Maior",
+      "Deltoide Anterior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+  },
+  {
+    "id": 2,
+    "nome": "Supino Reto com Halteres",
+    "descricao": "Variação do supino com maior amplitude de movimento",
+    "musculos": [
+      "Peitoral Maior",
+      "Deltoide Anterior",
+      "Tríceps"
+    ],
+    "equipamento": "Halteres e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=VmB1G1K7v94"
+  },
+  {
+    "id": 3,
+    "nome": "Supino Inclinado com Barra",
+    "descricao": "Foca na parte superior do peitoral",
+    "musculos": [
+      "Peitoral Superior",
+      "Deltoide Anterior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra e Banco Inclinado",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=8iPEnov-lmU"
+  },
+  {
+    "id": 4,
+    "nome": "Supino Inclinado com Halteres",
+    "descricao": "Amplitude maior para parte superior do peito",
+    "musculos": [
+      "Peitoral Superior",
+      "Deltoide Anterior"
+    ],
+    "equipamento": "Halteres e Banco Inclinado",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0G2_XV7slIg"
+  },
+  {
+    "id": 5,
+    "nome": "Supino Declinado",
+    "descricao": "Foca na parte inferior do peitoral",
+    "musculos": [
+      "Peitoral Inferior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra e Banco Declinado",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=LfyQBUKR8SE"
+  },
+  {
+    "id": 6,
+    "nome": "Crucifixo com Halteres",
+    "descricao": "Isolamento do peitoral com movimento de abertura",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Halteres e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=eozdVDA78K0"
+  },
+  {
+    "id": 7,
+    "nome": "Crucifixo Inclinado",
+    "descricao": "Isolamento da parte superior do peito",
+    "musculos": [
+      "Peitoral Superior"
+    ],
+    "equipamento": "Halteres e Banco Inclinado",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=8iPEnov-lmU"
+  },
+  {
+    "id": 8,
+    "nome": "Supino Máquina",
+    "descricao": "Versão mais segura do supino tradicional",
+    "musculos": [
+      "Peitoral Maior",
+      "Deltoide Anterior",
+      "Tríceps"
+    ],
+    "equipamento": "Máquina de Supino",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 9,
+    "nome": "Peck Deck",
+    "descricao": "Máquina específica para isolamento do peitoral",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Máquina Peck Deck",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=BeyqA0lSXxY"
+  },
+  {
+    "id": 10,
+    "nome": "Crossover no Pulley",
+    "descricao": "Exercício de isolamento com cabo",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=Iwe6AmxVf7o"
+  },
+  {
+    "id": 11,
+    "nome": "Flexão de Braço",
+    "descricao": "Exercício básico sem equipamento",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps",
+      "Deltoide Anterior"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+  },
+  {
+    "id": 12,
+    "nome": "Flexão Inclinada",
+    "descricao": "Flexão com pés elevados",
+    "musculos": [
+      "Peitoral Superior",
+      "Tríceps"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=cfnsWByWs4U"
+  },
+  {
+    "id": 13,
+    "nome": "Flexão Declinada",
+    "descricao": "Flexão com mãos elevadas",
+    "musculos": [
+      "Peitoral Inferior",
+      "Tríceps"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=4dF1DOWzf20"
+  },
+  {
+    "id": 14,
+    "nome": "Supino com Pegada Fechada",
+    "descricao": "Foca mais nos tríceps e peito interno",
+    "musculos": [
+      "Tríceps",
+      "Peitoral Interno"
+    ],
+    "equipamento": "Barra e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=nEF0bv2FW94"
+  },
+  {
+    "id": 15,
+    "nome": "Supino com Bola Suíça",
+    "descricao": "Adiciona instabilidade ao movimento",
+    "musculos": [
+      "Peitoral Maior",
+      "Core"
+    ],
+    "equipamento": "Halteres e Bola Suíça",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=5xQopv2yaJ4"
+  },
+  {
+    "id": 16,
+    "nome": "Dips",
+    "descricao": "Exercício composto para peito e tríceps",
+    "musculos": [
+      "Peitoral Inferior",
+      "Tríceps",
+      "Deltoide Anterior"
+    ],
+    "equipamento": "Barras Paralelas",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=2z8JmcrW-As"
+  },
+  {
+    "id": 17,
+    "nome": "Pullover com Halter",
+    "descricao": "Alongamento e contração do peitoral",
+    "musculos": [
+      "Peitoral Maior",
+      "Serrátil Anterior"
+    ],
+    "equipamento": "Halter e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 18,
+    "nome": "Supino com Pausa",
+    "descricao": "Técnica avançada para força",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 19,
+    "nome": "Supino com Banda Elástica",
+    "descricao": "Resistência variável durante o movimento",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra, Banco e Banda",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 20,
+    "nome": "Flexão Diamante",
+    "descricao": "Foca mais nos tríceps",
+    "musculos": [
+      "Tríceps",
+      "Peitoral"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=j0bXUqQBn1E"
+  },
+  {
+    "id": 21,
+    "nome": "Flexão com Aplauso",
+    "descricao": "Exercício pliométrico avançado",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=Hy9aZ_6pO8Y"
+  },
+  {
+    "id": 22,
+    "nome": "Supino com Kettlebell",
+    "descricao": "Variação com peso livre alternativo",
+    "musculos": [
+      "Peitoral Maior",
+      "Core"
+    ],
+    "equipamento": "Kettlebell e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 23,
+    "nome": "Chest Press Máquina",
+    "descricao": "Máquina para desenvolvimento do peito",
+    "musculos": [
+      "Peitoral Maior",
+      "Deltoide Anterior"
+    ],
+    "equipamento": "Máquina Chest Press",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 24,
+    "nome": "Supino com Correntes",
+    "descricao": "Resistência progressiva",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra, Banco e Correntes",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 25,
+    "nome": "Flexão com Rotação",
+    "descricao": "Adiciona trabalho de core",
+    "musculos": [
+      "Peitoral",
+      "Core",
+      "Oblíquos"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 26,
+    "nome": "Supino com Pés Elevados",
+    "descricao": "Aumenta a ativação do core",
+    "musculos": [
+      "Peitoral Maior",
+      "Core"
+    ],
+    "equipamento": "Barra e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 27,
+    "nome": "Crossover Alto",
+    "descricao": "Foca na parte inferior do peito",
+    "musculos": [
+      "Peitoral Inferior"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 28,
+    "nome": "Crossover Baixo",
+    "descricao": "Foca na parte superior do peito",
+    "musculos": [
+      "Peitoral Superior"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 29,
+    "nome": "Supino com Barra Curvada",
+    "descricao": "Reduz tensão nos punhos",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra Curvada e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 30,
+    "nome": "Flexão com Uma Mão",
+    "descricao": "Exercício avançado de força",
+    "musculos": [
+      "Peitoral",
+      "Tríceps",
+      "Core"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 31,
+    "nome": "Supino com Halteres Unilateral",
+    "descricao": "Trabalha cada lado separadamente",
+    "musculos": [
+      "Peitoral Maior",
+      "Core"
+    ],
+    "equipamento": "Halter e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 32,
+    "nome": "Push-up com Pés na Parede",
+    "descricao": "Flexão vertical avançada",
+    "musculos": [
+      "Peitoral Superior",
+      "Deltoide Anterior"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 33,
+    "nome": "Supino com Bola Medicinal",
+    "descricao": "Adiciona instabilidade",
+    "musculos": [
+      "Peitoral",
+      "Core"
+    ],
+    "equipamento": "Bola Medicinal e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 34,
+    "nome": "Flexão com Toque no Ombro",
+    "descricao": "Adiciona desafio de estabilidade",
+    "musculos": [
+      "Peitoral",
+      "Core",
+      "Deltoides"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 35,
+    "nome": "Supino com Resistência Manual",
+    "descricao": "Técnica avançada com parceiro",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra, Banco e Parceiro",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 36,
+    "nome": "Chest Fly Máquina Sentado",
+    "descricao": "Isolamento com máquina",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Máquina Chest Fly",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 37,
+    "nome": "Supino com Barra de Segurança",
+    "descricao": "Permite treinar até a falha com segurança",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra de Segurança e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 38,
+    "nome": "Flexão com Elevação de Perna",
+    "descricao": "Adiciona trabalho de glúteos",
+    "musculos": [
+      "Peitoral",
+      "Glúteos",
+      "Core"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 39,
+    "nome": "Supino com Cadeira",
+    "descricao": "Versão caseira do supino",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Halteres e Cadeira",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 40,
+    "nome": "Crossover Unilateral",
+    "descricao": "Trabalha um lado por vez",
+    "musculos": [
+      "Peitoral Maior",
+      "Core"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 41,
+    "nome": "Supino com Pausa no Peito",
+    "descricao": "Elimina o impulso elástico",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 42,
+    "nome": "Flexão com Salto",
+    "descricao": "Exercício pliométrico",
+    "musculos": [
+      "Peitoral",
+      "Tríceps",
+      "Deltoides"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 43,
+    "nome": "Supino com Barra Hexagonal",
+    "descricao": "Barra especial para supino",
+    "musculos": [
+      "Peitoral Maior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra Hexagonal e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 44,
+    "nome": "Chest Press com Banda",
+    "descricao": "Versão com banda elástica",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Banda Elástica",
+    "categoria": "Peito",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 45,
+    "nome": "Flexão com Pés em Bola Suíça",
+    "descricao": "Aumenta instabilidade",
+    "musculos": [
+      "Peitoral",
+      "Core"
+    ],
+    "equipamento": "Bola Suíça",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 46,
+    "nome": "Supino com Barra de Segurança Inclinada",
+    "descricao": "Versão inclinada com segurança",
+    "musculos": [
+      "Peitoral Superior",
+      "Tríceps"
+    ],
+    "equipamento": "Barra de Segurança e Banco Inclinado",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 47,
+    "nome": "Flexão com Mãos em Bola Suíça",
+    "descricao": "Desafio de estabilidade",
+    "musculos": [
+      "Peitoral",
+      "Core",
+      "Deltoides"
+    ],
+    "equipamento": "Bola Suíça",
+    "categoria": "Peito",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 48,
+    "nome": "Supino com Halteres em Rotação",
+    "descricao": "Adiciona rotação no topo",
+    "musculos": [
+      "Peitoral Maior",
+      "Deltoides"
+    ],
+    "equipamento": "Halteres e Banco",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 49,
+    "nome": "Crossover com Corda",
+    "descricao": "Variação com corda no cabo",
+    "musculos": [
+      "Peitoral Maior"
+    ],
+    "equipamento": "Cabo, Polia e Corda",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 50,
+    "nome": "Flexão com Pausa",
+    "descricao": "Técnica para aumentar tempo sob tensão",
+    "musculos": [
+      "Peitoral",
+      "Tríceps"
+    ],
+    "equipamento": "Nenhum",
+    "categoria": "Peito",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=0fZ2xJ3vLkE"
+  },
+  {
+    "id": 51,
+    "nome": "Barra Fixa",
+    "descricao": "Exercício fundamental para costas",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps",
+      "Romboides"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 52,
+    "nome": "Remada Curvada com Barra",
+    "descricao": "Exercício composto para costas",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=paHf6I3xX3M"
+  },
+  {
+    "id": 53,
+    "nome": "Remada Curvada com Halteres",
+    "descricao": "Amplitude maior de movimento",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=roCP6wCXPqo"
+  },
+  {
+    "id": 54,
+    "nome": "Puxada Frontal",
+    "descricao": "Exercício de máquina para latíssimos",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 55,
+    "nome": "Puxada Atrás da Nuca",
+    "descricao": "Variação da puxada frontal",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 56,
+    "nome": "Remada Baixa",
+    "descricao": "Exercício sentado com cabo",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=GZbfZ033f74"
+  },
+  {
+    "id": 57,
+    "nome": "Remada Unilateral com Halter",
+    "descricao": "Trabalha cada lado separadamente",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Halter e Banco",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=roCP6wCXPqo"
+  },
+  {
+    "id": 58,
+    "nome": "Remada T",
+    "descricao": "Exercício com barra T",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Trapézio Médio"
+    ],
+    "equipamento": "Barra T",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=j3Igk5nyZE4"
+  },
+  {
+    "id": 59,
+    "nome": "Puxada com Pegada Aberta",
+    "descricao": "Foca mais na largura das costas",
+    "musculos": [
+      "Latíssimo do Dorso"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 60,
+    "nome": "Puxada com Pegada Fechada",
+    "descricao": "Foca mais na espessura das costas",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 61,
+    "nome": "Remada Alta",
+    "descricao": "Foca no trapézio e deltoides",
+    "musculos": [
+      "Trapézio",
+      "Deltoide Médio"
+    ],
+    "equipamento": "Barra ou Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 62,
+    "nome": "Encolhimento de Ombros",
+    "descricao": "Isolamento do trapézio",
+    "musculos": [
+      "Trapézio Superior"
+    ],
+    "equipamento": "Barra ou Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 63,
+    "nome": "Remada com Cabo Unilateral",
+    "descricao": "Trabalho unilateral com cabo",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 64,
+    "nome": "Barra Fixa com Peso",
+    "descricao": "Barra fixa com carga adicional",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração e Cinto de Peso",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 65,
+    "nome": "Remada Invertida",
+    "descricao": "Exercício com peso corporal",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Bíceps"
+    ],
+    "equipamento": "Barra ou TRX",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 66,
+    "nome": "Puxada com Corda",
+    "descricao": "Variação com corda no cabo",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Cabo, Polia e Corda",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 67,
+    "nome": "Remada com Barra Hexagonal",
+    "descricao": "Barra especial para remada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra Hexagonal",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 68,
+    "nome": "Puxada com Pegada Neutra",
+    "descricao": "Pegada em martelo",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 69,
+    "nome": "Remada com Kettlebell",
+    "descricao": "Variação com kettlebell",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Kettlebell",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 70,
+    "nome": "Barra Fixa com Pegada Aberta",
+    "descricao": "Foca na largura",
+    "musculos": [
+      "Latíssimo do Dorso"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 71,
+    "nome": "Barra Fixa com Pegada Fechada",
+    "descricao": "Foca na espessura",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 72,
+    "nome": "Remada com Banda Elástica",
+    "descricao": "Versão com banda",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Banda Elástica",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 73,
+    "nome": "Puxada Unilateral",
+    "descricao": "Um braço por vez",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 74,
+    "nome": "Remada Sentado com Máquina",
+    "descricao": "Máquina específica para remada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Máquina de Remada",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 75,
+    "nome": "Barra Fixa com Assistência",
+    "descricao": "Para iniciantes",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração e Banda",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 76,
+    "nome": "Remada com TRX",
+    "descricao": "Exercício suspenso",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides",
+      "Core"
+    ],
+    "equipamento": "TRX",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 77,
+    "nome": "Puxada com Barra Reta",
+    "descricao": "Barra reta na máquina",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 78,
+    "nome": "Remada com Barra Curvada",
+    "descricao": "Barra curvada para remada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra Curvada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 79,
+    "nome": "Encolhimento com Halteres",
+    "descricao": "Isolamento do trapézio",
+    "musculos": [
+      "Trapézio Superior"
+    ],
+    "equipamento": "Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 80,
+    "nome": "Puxada com Pegada Supinada",
+    "descricao": "Pegada invertida",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 81,
+    "nome": "Remada com Pausa",
+    "descricao": "Técnica avançada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 82,
+    "nome": "Barra Fixa L-Sit",
+    "descricao": "Barra fixa com pernas elevadas",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Core",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 83,
+    "nome": "Remada com Barra de Segurança",
+    "descricao": "Barra especial",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra de Segurança",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 84,
+    "nome": "Puxada com Pegada Alternada",
+    "descricao": "Pegada mista",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 85,
+    "nome": "Remada com Correntes",
+    "descricao": "Resistência progressiva",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra e Correntes",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 86,
+    "nome": "Barra Fixa com Kipping",
+    "descricao": "Técnica de crossfit",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Core"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 87,
+    "nome": "Remada com Barra na Máquina Smith",
+    "descricao": "Remada guiada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Máquina Smith",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 88,
+    "nome": "Puxada com Barra Curvada",
+    "descricao": "Barra curvada na máquina",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 89,
+    "nome": "Remada com Halteres em Pronação",
+    "descricao": "Pegada pronada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 90,
+    "nome": "Encolhimento com Barra",
+    "descricao": "Trapézio com barra",
+    "musculos": [
+      "Trapézio Superior"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Iniciante",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 91,
+    "nome": "Barra Fixa com Pegada Neutra",
+    "descricao": "Pegada em martelo",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 92,
+    "nome": "Remada com Halteres em Supinação",
+    "descricao": "Pegada supinada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Halteres",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 93,
+    "nome": "Puxada com Barra Hexagonal",
+    "descricao": "Barra hexagonal na máquina",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 94,
+    "nome": "Remada com Cabo Alta",
+    "descricao": "Cabo na altura do peito",
+    "musculos": [
+      "Romboides",
+      "Trapézio Médio"
+    ],
+    "equipamento": "Cabo e Polia",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 95,
+    "nome": "Barra Fixa com Peso Livre",
+    "descricao": "Barra fixa com halter entre as pernas",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps"
+    ],
+    "equipamento": "Barra de Tração e Halter",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 96,
+    "nome": "Remada com Barra na Posição Inclinada",
+    "descricao": "Corpo inclinado",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 97,
+    "nome": "Puxada com Pegada Larga",
+    "descricao": "Pegada muito aberta",
+    "musculos": [
+      "Latíssimo do Dorso"
+    ],
+    "equipamento": "Máquina de Puxada",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 98,
+    "nome": "Remada com Barra em Pronação",
+    "descricao": "Pegada pronada",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Romboides"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 99,
+    "nome": "Encolhimento com Barra Atrás",
+    "descricao": "Barra atrás do corpo",
+    "musculos": [
+      "Trapézio Superior"
+    ],
+    "equipamento": "Barra",
+    "categoria": "Costas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "id": 100,
+    "nome": "Barra Fixa com Toque no Peito",
+    "descricao": "Barra fixa completa",
+    "musculos": [
+      "Latíssimo do Dorso",
+      "Bíceps",
+      "Romboides"
+    ],
+    "equipamento": "Barra de Tração",
+    "categoria": "Costas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "id": 101,
+    "nome": "Desenvolvimento com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 102,
+    "nome": "Desenvolvimento com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 103,
+    "nome": "Desenvolvimento com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 104,
+    "nome": "Desenvolvimento com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 105,
+    "nome": "Desenvolvimento Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 106,
+    "nome": "Elevação Lateral com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 107,
+    "nome": "Elevação Lateral com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 108,
+    "nome": "Elevação Lateral com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 109,
+    "nome": "Elevação Lateral com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 110,
+    "nome": "Elevação Lateral Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 111,
+    "nome": "Elevação Frontal com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 112,
+    "nome": "Elevação Frontal com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 113,
+    "nome": "Elevação Frontal com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 114,
+    "nome": "Elevação Frontal com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 115,
+    "nome": "Elevação Frontal Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 116,
+    "nome": "Remada Alta com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 117,
+    "nome": "Remada Alta com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 118,
+    "nome": "Remada Alta com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 119,
+    "nome": "Remada Alta com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 120,
+    "nome": "Remada Alta Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 121,
+    "nome": "Crucifixo Invertido com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 122,
+    "nome": "Crucifixo Invertido com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 123,
+    "nome": "Crucifixo Invertido com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 124,
+    "nome": "Crucifixo Invertido com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 125,
+    "nome": "Crucifixo Invertido Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 126,
+    "nome": "Desenvolvimento Arnold com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 127,
+    "nome": "Desenvolvimento Arnold com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 128,
+    "nome": "Desenvolvimento Arnold com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 129,
+    "nome": "Desenvolvimento Arnold com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 130,
+    "nome": "Desenvolvimento Arnold Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 131,
+    "nome": "Elevação com Rotação com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 132,
+    "nome": "Elevação com Rotação com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 133,
+    "nome": "Elevação com Rotação com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 134,
+    "nome": "Elevação com Rotação com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 135,
+    "nome": "Elevação com Rotação Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 136,
+    "nome": "Face Pull com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 137,
+    "nome": "Face Pull com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 138,
+    "nome": "Face Pull com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 139,
+    "nome": "Face Pull com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 140,
+    "nome": "Face Pull Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 141,
+    "nome": "Desenvolvimento Unilateral com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 142,
+    "nome": "Desenvolvimento Unilateral com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 143,
+    "nome": "Desenvolvimento Unilateral com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 144,
+    "nome": "Desenvolvimento Unilateral com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 145,
+    "nome": "Desenvolvimento Unilateral Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 146,
+    "nome": "Elevação Lateral Inclinada com Halteres",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 147,
+    "nome": "Elevação Lateral Inclinada com Barra",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 148,
+    "nome": "Elevação Lateral Inclinada com Cabo",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 149,
+    "nome": "Elevação Lateral Inclinada com Máquina",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 150,
+    "nome": "Elevação Lateral Inclinada Unilateral",
+    "descricao": "Exercício para desenvolvimento dos ombros",
+    "musculos": [
+      "Deltoides",
+      "Trapézio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Ombros",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+  },
+  {
+    "id": 151,
+    "nome": "Agachamento Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 152,
+    "nome": "Agachamento com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 153,
+    "nome": "Agachamento com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 154,
+    "nome": "Agachamento com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 155,
+    "nome": "Agachamento Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 156,
+    "nome": "Agachamento com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 157,
+    "nome": "Agachamento com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 158,
+    "nome": "Agachamento Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 159,
+    "nome": "Agachamento Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 160,
+    "nome": "Agachamento Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 161,
+    "nome": "Leg Press Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 162,
+    "nome": "Leg Press com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 163,
+    "nome": "Leg Press com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 164,
+    "nome": "Leg Press com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 165,
+    "nome": "Leg Press Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 166,
+    "nome": "Leg Press com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 167,
+    "nome": "Leg Press com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 168,
+    "nome": "Leg Press Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 169,
+    "nome": "Leg Press Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 170,
+    "nome": "Leg Press Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 171,
+    "nome": "Extensão de Pernas Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 172,
+    "nome": "Extensão de Pernas com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 173,
+    "nome": "Extensão de Pernas com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 174,
+    "nome": "Extensão de Pernas com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 175,
+    "nome": "Extensão de Pernas Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 176,
+    "nome": "Extensão de Pernas com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 177,
+    "nome": "Extensão de Pernas com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 178,
+    "nome": "Extensão de Pernas Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 179,
+    "nome": "Extensão de Pernas Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 180,
+    "nome": "Extensão de Pernas Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 181,
+    "nome": "Flexão de Pernas Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 182,
+    "nome": "Flexão de Pernas com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 183,
+    "nome": "Flexão de Pernas com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 184,
+    "nome": "Flexão de Pernas com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 185,
+    "nome": "Flexão de Pernas Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 186,
+    "nome": "Flexão de Pernas com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 187,
+    "nome": "Flexão de Pernas com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 188,
+    "nome": "Flexão de Pernas Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 189,
+    "nome": "Flexão de Pernas Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 190,
+    "nome": "Flexão de Pernas Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 191,
+    "nome": "Afundo Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 192,
+    "nome": "Afundo com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 193,
+    "nome": "Afundo com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 194,
+    "nome": "Afundo com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 195,
+    "nome": "Afundo Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 196,
+    "nome": "Afundo com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 197,
+    "nome": "Afundo com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 198,
+    "nome": "Afundo Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 199,
+    "nome": "Afundo Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 200,
+    "nome": "Afundo Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 201,
+    "nome": "Agachamento Búlgaro Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 202,
+    "nome": "Agachamento Búlgaro com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 203,
+    "nome": "Agachamento Búlgaro com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 204,
+    "nome": "Agachamento Búlgaro com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 205,
+    "nome": "Agachamento Búlgaro Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 206,
+    "nome": "Agachamento Búlgaro com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 207,
+    "nome": "Agachamento Búlgaro com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 208,
+    "nome": "Agachamento Búlgaro Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 209,
+    "nome": "Agachamento Búlgaro Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 210,
+    "nome": "Agachamento Búlgaro Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 211,
+    "nome": "Elevação de Panturrilha Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 212,
+    "nome": "Elevação de Panturrilha com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 213,
+    "nome": "Elevação de Panturrilha com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 214,
+    "nome": "Elevação de Panturrilha com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 215,
+    "nome": "Elevação de Panturrilha Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 216,
+    "nome": "Elevação de Panturrilha com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 217,
+    "nome": "Elevação de Panturrilha com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 218,
+    "nome": "Elevação de Panturrilha Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 219,
+    "nome": "Elevação de Panturrilha Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 220,
+    "nome": "Elevação de Panturrilha Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 221,
+    "nome": "Stiff Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 222,
+    "nome": "Stiff com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 223,
+    "nome": "Stiff com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 224,
+    "nome": "Stiff com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 225,
+    "nome": "Stiff Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 226,
+    "nome": "Stiff com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 227,
+    "nome": "Stiff com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 228,
+    "nome": "Stiff Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 229,
+    "nome": "Stiff Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 230,
+    "nome": "Stiff Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 231,
+    "nome": "Hack Squat Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 232,
+    "nome": "Hack Squat com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 233,
+    "nome": "Hack Squat com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 234,
+    "nome": "Hack Squat com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 235,
+    "nome": "Hack Squat Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 236,
+    "nome": "Hack Squat com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 237,
+    "nome": "Hack Squat com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 238,
+    "nome": "Hack Squat Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 239,
+    "nome": "Hack Squat Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 240,
+    "nome": "Hack Squat Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 241,
+    "nome": "Lunges Livre",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 242,
+    "nome": "Lunges com Barra",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 243,
+    "nome": "Lunges com Halteres",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 244,
+    "nome": "Lunges com Máquina",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 245,
+    "nome": "Lunges Unilateral",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 246,
+    "nome": "Lunges com Banda",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 247,
+    "nome": "Lunges com Kettlebell",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 248,
+    "nome": "Lunges Sumô",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 249,
+    "nome": "Lunges Frontal",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 250,
+    "nome": "Lunges Traseiro",
+    "descricao": "Exercício para desenvolvimento das pernas",
+    "musculos": [
+      "Quadríceps",
+      "Glúteos",
+      "Posterior de Coxa"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Pernas",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 251,
+    "nome": "Rosca Direta com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 252,
+    "nome": "Rosca Direta com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 253,
+    "nome": "Rosca Direta no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 254,
+    "nome": "Rosca Direta Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 255,
+    "nome": "Rosca Direta com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 256,
+    "nome": "Rosca Martelo com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 257,
+    "nome": "Rosca Martelo com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 258,
+    "nome": "Rosca Martelo no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 259,
+    "nome": "Rosca Martelo Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 260,
+    "nome": "Rosca Martelo com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 261,
+    "nome": "Rosca Concentrada com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 262,
+    "nome": "Rosca Concentrada com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 263,
+    "nome": "Rosca Concentrada no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 264,
+    "nome": "Rosca Concentrada Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 265,
+    "nome": "Rosca Concentrada com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 266,
+    "nome": "Rosca Scott com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 267,
+    "nome": "Rosca Scott com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 268,
+    "nome": "Rosca Scott no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 269,
+    "nome": "Rosca Scott Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 270,
+    "nome": "Rosca Scott com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 271,
+    "nome": "Rosca 21 com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 272,
+    "nome": "Rosca 21 com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 273,
+    "nome": "Rosca 21 no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 274,
+    "nome": "Rosca 21 Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 275,
+    "nome": "Rosca 21 com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 276,
+    "nome": "Rosca com Barra com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 277,
+    "nome": "Rosca com Barra com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 278,
+    "nome": "Rosca com Barra no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 279,
+    "nome": "Rosca com Barra Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 280,
+    "nome": "Rosca com Barra com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 281,
+    "nome": "Rosca com Halteres com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 282,
+    "nome": "Rosca com Halteres com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 283,
+    "nome": "Rosca com Halteres no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 284,
+    "nome": "Rosca com Halteres Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 285,
+    "nome": "Rosca com Halteres com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 286,
+    "nome": "Rosca no Cabo com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 287,
+    "nome": "Rosca no Cabo com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 288,
+    "nome": "Rosca no Cabo no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 289,
+    "nome": "Rosca no Cabo Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 290,
+    "nome": "Rosca no Cabo com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 291,
+    "nome": "Rosca Unilateral com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 292,
+    "nome": "Rosca Unilateral com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 293,
+    "nome": "Rosca Unilateral no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 294,
+    "nome": "Rosca Unilateral Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 295,
+    "nome": "Rosca Unilateral com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 296,
+    "nome": "Rosca Invertida com Barra",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 297,
+    "nome": "Rosca Invertida com Halteres",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 298,
+    "nome": "Rosca Invertida no Cabo",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 299,
+    "nome": "Rosca Invertida Unilateral",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 300,
+    "nome": "Rosca Invertida com Banda",
+    "descricao": "Exercício para desenvolvimento dos bíceps",
+    "musculos": [
+      "Bíceps Braquial",
+      "Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Bíceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "id": 301,
+    "nome": "Tríceps Pulley com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 302,
+    "nome": "Tríceps Pulley com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 303,
+    "nome": "Tríceps Pulley no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 304,
+    "nome": "Tríceps Pulley Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 305,
+    "nome": "Tríceps Pulley com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 306,
+    "nome": "Tríceps Testa com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 307,
+    "nome": "Tríceps Testa com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 308,
+    "nome": "Tríceps Testa no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 309,
+    "nome": "Tríceps Testa Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 310,
+    "nome": "Tríceps Testa com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 311,
+    "nome": "Tríceps Coice com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 312,
+    "nome": "Tríceps Coice com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 313,
+    "nome": "Tríceps Coice no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 314,
+    "nome": "Tríceps Coice Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 315,
+    "nome": "Tríceps Coice com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 316,
+    "nome": "Mergulho com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 317,
+    "nome": "Mergulho com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 318,
+    "nome": "Mergulho no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 319,
+    "nome": "Mergulho Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 320,
+    "nome": "Mergulho com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 321,
+    "nome": "Tríceps Francês com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 322,
+    "nome": "Tríceps Francês com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 323,
+    "nome": "Tríceps Francês no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 324,
+    "nome": "Tríceps Francês Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 325,
+    "nome": "Tríceps Francês com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 326,
+    "nome": "Tríceps Paralelo com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 327,
+    "nome": "Tríceps Paralelo com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 328,
+    "nome": "Tríceps Paralelo no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 329,
+    "nome": "Tríceps Paralelo Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 330,
+    "nome": "Tríceps Paralelo com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 331,
+    "nome": "Tríceps Unilateral com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 332,
+    "nome": "Tríceps Unilateral com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 333,
+    "nome": "Tríceps Unilateral no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 334,
+    "nome": "Tríceps Unilateral Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 335,
+    "nome": "Tríceps Unilateral com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 336,
+    "nome": "Tríceps com Barra com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 337,
+    "nome": "Tríceps com Barra com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 338,
+    "nome": "Tríceps com Barra no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 339,
+    "nome": "Tríceps com Barra Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 340,
+    "nome": "Tríceps com Barra com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 341,
+    "nome": "Tríceps com Halteres com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 342,
+    "nome": "Tríceps com Halteres com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 343,
+    "nome": "Tríceps com Halteres no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 344,
+    "nome": "Tríceps com Halteres Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 345,
+    "nome": "Tríceps com Halteres com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 346,
+    "nome": "Tríceps no Cabo com Barra",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 347,
+    "nome": "Tríceps no Cabo com Halteres",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 348,
+    "nome": "Tríceps no Cabo no Cabo",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 349,
+    "nome": "Tríceps no Cabo Unilateral",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 350,
+    "nome": "Tríceps no Cabo com Banda",
+    "descricao": "Exercício para desenvolvimento dos tríceps",
+    "musculos": [
+      "Tríceps Braquial"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Tríceps",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=6kALZikXxLc"
+  },
+  {
+    "id": 351,
+    "nome": "Abdominal Crunch Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 352,
+    "nome": "Abdominal Crunch com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 353,
+    "nome": "Abdominal Crunch com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 354,
+    "nome": "Abdominal Crunch Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 355,
+    "nome": "Abdominal Crunch Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 356,
+    "nome": "Prancha Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 357,
+    "nome": "Prancha com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 358,
+    "nome": "Prancha com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 359,
+    "nome": "Prancha Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 360,
+    "nome": "Prancha Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 361,
+    "nome": "Elevação de Pernas Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 362,
+    "nome": "Elevação de Pernas com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 363,
+    "nome": "Elevação de Pernas com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 364,
+    "nome": "Elevação de Pernas Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 365,
+    "nome": "Elevação de Pernas Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 366,
+    "nome": "Russian Twist Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 367,
+    "nome": "Russian Twist com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 368,
+    "nome": "Russian Twist com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 369,
+    "nome": "Russian Twist Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 370,
+    "nome": "Russian Twist Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 371,
+    "nome": "Mountain Climber Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 372,
+    "nome": "Mountain Climber com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 373,
+    "nome": "Mountain Climber com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 374,
+    "nome": "Mountain Climber Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 375,
+    "nome": "Mountain Climber Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 376,
+    "nome": "Abdominal Bicicleta Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 377,
+    "nome": "Abdominal Bicicleta com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 378,
+    "nome": "Abdominal Bicicleta com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 379,
+    "nome": "Abdominal Bicicleta Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 380,
+    "nome": "Abdominal Bicicleta Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 381,
+    "nome": "Abdominal Reverso Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 382,
+    "nome": "Abdominal Reverso com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 383,
+    "nome": "Abdominal Reverso com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 384,
+    "nome": "Abdominal Reverso Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 385,
+    "nome": "Abdominal Reverso Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 386,
+    "nome": "Prancha Lateral Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 387,
+    "nome": "Prancha Lateral com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 388,
+    "nome": "Prancha Lateral com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 389,
+    "nome": "Prancha Lateral Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 390,
+    "nome": "Prancha Lateral Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 391,
+    "nome": "Dead Bug Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 392,
+    "nome": "Dead Bug com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 393,
+    "nome": "Dead Bug com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 394,
+    "nome": "Dead Bug Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 395,
+    "nome": "Dead Bug Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 396,
+    "nome": "Hollow Hold Básico",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 397,
+    "nome": "Hollow Hold com Peso",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 398,
+    "nome": "Hollow Hold com Bola Suíça",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 399,
+    "nome": "Hollow Hold Unilateral",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 400,
+    "nome": "Hollow Hold Avançado",
+    "descricao": "Exercício para fortalecimento do core",
+    "musculos": [
+      "Reto Abdominal",
+      "Oblíquos",
+      "Transverso"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Core",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "id": 401,
+    "nome": "Elevação Pélvica Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 402,
+    "nome": "Elevação Pélvica com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 403,
+    "nome": "Elevação Pélvica com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 404,
+    "nome": "Elevação Pélvica Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 405,
+    "nome": "Elevação Pélvica com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 406,
+    "nome": "Abdução de Quadril Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 407,
+    "nome": "Abdução de Quadril com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 408,
+    "nome": "Abdução de Quadril com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 409,
+    "nome": "Abdução de Quadril Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 410,
+    "nome": "Abdução de Quadril com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 411,
+    "nome": "Adução de Quadril Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 412,
+    "nome": "Adução de Quadril com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 413,
+    "nome": "Adução de Quadril com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 414,
+    "nome": "Adução de Quadril Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 415,
+    "nome": "Adução de Quadril com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 416,
+    "nome": "Ponte Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 417,
+    "nome": "Ponte com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 418,
+    "nome": "Ponte com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 419,
+    "nome": "Ponte Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 420,
+    "nome": "Ponte com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 421,
+    "nome": "Kickback Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 422,
+    "nome": "Kickback com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 423,
+    "nome": "Kickback com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 424,
+    "nome": "Kickback Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 425,
+    "nome": "Kickback com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 426,
+    "nome": "Agachamento Sumô Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 427,
+    "nome": "Agachamento Sumô com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 428,
+    "nome": "Agachamento Sumô com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 429,
+    "nome": "Agachamento Sumô Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 430,
+    "nome": "Agachamento Sumô com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 431,
+    "nome": "Hip Thrust Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 432,
+    "nome": "Hip Thrust com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 433,
+    "nome": "Hip Thrust com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 434,
+    "nome": "Hip Thrust Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 435,
+    "nome": "Hip Thrust com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 436,
+    "nome": "Glute Bridge Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 437,
+    "nome": "Glute Bridge com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 438,
+    "nome": "Glute Bridge com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 439,
+    "nome": "Glute Bridge Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 440,
+    "nome": "Glute Bridge com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 441,
+    "nome": "Fire Hydrant Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 442,
+    "nome": "Fire Hydrant com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 443,
+    "nome": "Fire Hydrant com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 444,
+    "nome": "Fire Hydrant Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 445,
+    "nome": "Fire Hydrant com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 446,
+    "nome": "Donkey Kick Básico",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 447,
+    "nome": "Donkey Kick com Banda",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 448,
+    "nome": "Donkey Kick com Peso",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 449,
+    "nome": "Donkey Kick Unilateral",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 450,
+    "nome": "Donkey Kick com Máquina",
+    "descricao": "Exercício para desenvolvimento dos glúteos",
+    "musculos": [
+      "Glúteo Máximo",
+      "Glúteo Médio"
+    ],
+    "equipamento": "Varia conforme exercício",
+    "categoria": "Glúteos",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "id": 451,
+    "nome": "Burpee Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 452,
+    "nome": "Burpee com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 453,
+    "nome": "Burpee Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 454,
+    "nome": "Burpee Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 455,
+    "nome": "Burpee com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 456,
+    "nome": "Jumping Jacks Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 457,
+    "nome": "Jumping Jacks com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 458,
+    "nome": "Jumping Jacks Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 459,
+    "nome": "Jumping Jacks Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 460,
+    "nome": "Jumping Jacks com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 461,
+    "nome": "Corrida no Lugar Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 462,
+    "nome": "Corrida no Lugar com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 463,
+    "nome": "Corrida no Lugar Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 464,
+    "nome": "Corrida no Lugar Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 465,
+    "nome": "Corrida no Lugar com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 466,
+    "nome": "Polichinelo Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 467,
+    "nome": "Polichinelo com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 468,
+    "nome": "Polichinelo Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 469,
+    "nome": "Polichinelo Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 470,
+    "nome": "Polichinelo com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 471,
+    "nome": "Mountain Climber Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 472,
+    "nome": "Mountain Climber com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 473,
+    "nome": "Mountain Climber Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 474,
+    "nome": "Mountain Climber Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 475,
+    "nome": "Mountain Climber com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 476,
+    "nome": "High Knees Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 477,
+    "nome": "High Knees com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 478,
+    "nome": "High Knees Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 479,
+    "nome": "High Knees Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 480,
+    "nome": "High Knees com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 481,
+    "nome": "Butt Kicks Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 482,
+    "nome": "Butt Kicks com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 483,
+    "nome": "Butt Kicks Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 484,
+    "nome": "Butt Kicks Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 485,
+    "nome": "Butt Kicks com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 486,
+    "nome": "Skaters Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 487,
+    "nome": "Skaters com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 488,
+    "nome": "Skaters Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 489,
+    "nome": "Skaters Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 490,
+    "nome": "Skaters com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 491,
+    "nome": "Bear Crawl Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 492,
+    "nome": "Bear Crawl com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 493,
+    "nome": "Bear Crawl Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 494,
+    "nome": "Bear Crawl Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 495,
+    "nome": "Bear Crawl com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 496,
+    "nome": "Crab Walk Básico",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 497,
+    "nome": "Crab Walk com Peso",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 498,
+    "nome": "Crab Walk Avançado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Intermediário",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 499,
+    "nome": "Crab Walk Intervalado",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  },
+  {
+    "id": 500,
+    "nome": "Crab Walk com Salto",
+    "descricao": "Exercício cardiovascular e funcional",
+    "musculos": [
+      "Corpo Inteiro"
+    ],
+    "equipamento": "Nenhum ou Peso",
+    "categoria": "Cardio",
+    "dificuldade": "Avançado",
+    "link_execucao": "https://www.youtube.com/watch?v=tyvH5wXqjqE"
+  }
+]
