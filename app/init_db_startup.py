@@ -33,10 +33,8 @@ def init_db_on_startup():
             logger.info("👤 Criando usuário admin...")
             admin_user = Usuario(
                 username="admin",
-                email="admin@fitnessapp.com",
-                nome="Administrador",
                 senha_hash=get_password_hash("admin"),
-                is_admin=True
+                is_admin=1
             )
             db.add(admin_user)
             db.commit()
