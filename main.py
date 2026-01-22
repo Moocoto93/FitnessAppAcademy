@@ -12,6 +12,7 @@ from app.routes import auth, exercicios, admin
 from app.config import settings
 from app.logging_config import setup_logging
 from app.middleware import LoggingMiddleware, SecurityHeadersMiddleware
+from app.init_db_startup import init_db_on_startup
 import logging
 
 # Configura logging
@@ -68,6 +69,14 @@ async def global_exception_handler(request: Request, exc: Exception):
 app.include_router(auth.router)
 app.include_router(exercicios.router)
 app.include_router(admin.router)
+
+# Event handler para inicializar dados no startup
+@app.on_event("startup")
+async def startup_event():
+    """Inicializa o banco de dados e dados na primeira execução"""
+    logger.info("🚀 Aplicação iniciando...")
+    init_db_on_startup()
+    logger.info("✅ Aplicação pronta para uso")
 
 
 @app.get("/")
